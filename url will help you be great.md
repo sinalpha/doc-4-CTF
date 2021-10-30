@@ -1,3 +1,3 @@
-# url will help you be grate 
+# url will help you be great
 🔸https://hookbin.com/     
 🔸
